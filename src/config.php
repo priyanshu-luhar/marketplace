@@ -1,4 +1,4 @@
 <?php
     require_once("FormBuilder.php");
-    $db = new SQLite3("../sql/marketplace.db");
+    $db = new SQLite3("../dbs/marketplace.db");
 ?>
